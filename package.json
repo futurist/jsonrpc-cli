@@ -1,0 +1,27 @@
+{
+  "name": "jsonrpc-cli",
+  "version": "1.0.0",
+  "description": "Interactive with JSONRPC server via Repl CLI",
+  "main": "src/index.js",
+  "bin": {
+    "jsonrpc-cli": "src/index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=14.18.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/futurist/jsonrpc-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/futurist/jsonrpc-cli/issues"
+  },
+  "homepage": "https://github.com/futurist/jsonrpc-cli#readme"
+}
