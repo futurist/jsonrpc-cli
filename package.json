@@ -1,6 +1,6 @@
 {
   "name": "jsonrpc-repl-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Interactive with JSONRPC server via Repl CLI client",
   "main": "src/index.js",
   "bin": {
