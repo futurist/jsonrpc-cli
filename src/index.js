@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import repl from 'node:repl'
 import net from 'node:net'
 import { inspect } from 'node:util'
